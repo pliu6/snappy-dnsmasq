@@ -1,4 +1,4 @@
-name: dnsmasq
+name: paradrop-dnsmasq
 version: 2.74
 vendor: Paradrop Labs
 type: framework
